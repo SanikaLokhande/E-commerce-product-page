@@ -1,0 +1,29 @@
+</DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" conttent="width=device-width, initial-scale=1.0">
+  <title>Product Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <header>
+ <h1>Product Name</h1>
+ <p>Description of the product goes here.<p>
+</header>
+<main>
+ <div class="product-image">
+ <img src="product-image.jpg" alt="Product Image">
+</div>
+    <div class="product-details">
+    <h2>Product Details</h2>
+    <p>Price:$XX.XX</p>
+    <p>Availability:In Stock</p>
+    <button>Add to Cart</button>
+</div>
+</main>
+<footer>
+  <p>&coppy;2024 E-commerce Website</p>
+  </footer>
+  </body>
+  </html>
